@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**For2Oh/For2Oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...creating and developing. A new way to buy and sell ALL THINGS. 
 - 🌱 I’m currently learning ...How to do this!!!!
 - 👯 I’m looking to collaborate on ...Thoughts and new ideas about Cryptosystem use. In a marketplace setting
@@ -14,3 +9,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...We. Ours. 
 - ⚡ Fun fact: ...I went to NYC, London, Helsinki, and Moscow. In one "Day". "Longest shortest day EVER!"
 -->
+<!--
+**For2Oh/For2Oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
